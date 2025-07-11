@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` for your **AI Document Chatbot** project:
-
----
-
 ## 📚 Ask Your Documents – AI Chatbot
 
 > Upload your study materials (PDF or Word) and ask questions — an AI will find the answers for you using Groq + LangChain + ChromaDB.
