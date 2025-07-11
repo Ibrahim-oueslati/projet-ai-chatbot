@@ -49,13 +49,6 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 ```bash
 pip install -r requirements.txt
 ```
-
-> If you don’t have a `requirements.txt`, run:
-
-```bash
-pip freeze > requirements.txt
-```
-
 #### 4. **Add your Groq API key**
 
 Create a `.env` file:
@@ -63,9 +56,6 @@ Create a `.env` file:
 ```env
 GROQ_API_KEY=your_actual_groq_api_key_here
 ```
-
-> ⚠️ **Never commit your `.env` file!** (Already excluded via `.gitignore`)
-
 #### 5. **Run the app**
 
 ```bash
