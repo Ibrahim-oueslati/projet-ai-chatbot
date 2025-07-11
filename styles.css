@@ -1,0 +1,30 @@
+.main-title {
+    text-align: center;
+    font-size: 3rem;
+    color: #2E86AB;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+.user-message,
+.bot-message {
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 0;
+    font-size: 1rem;
+}
+
+.user-message {
+    background: #e3f2fd;
+    border-left: 4px solid #2196f3;
+}
+
+.bot-message {
+    background: #f1f8e9;
+    border-left: 4px solid #4caf50;
+}
