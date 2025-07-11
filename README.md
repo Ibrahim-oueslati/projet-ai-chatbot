@@ -1,8 +1,6 @@
 ## 📚 Ask Your Documents – AI Chatbot
 
 > Upload your study materials (PDF or Word) and ask questions — an AI will find the answers for you using Groq + LangChain + ChromaDB.
-
-![Streamlit Screenshot](https://placehold.co/1000x400?text=Screenshot+Preview) 
 <img width="1281" height="863" alt="image" src="https://github.com/user-attachments/assets/de6a1624-594f-4565-b597-0dad802a1c08" />
 
 
